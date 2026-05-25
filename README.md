@@ -73,18 +73,6 @@ The processor follows the standard instruction execution stages:
 
 ---
 
-## 📸 Screenshots
-
-### CPU Overview
-_Add screenshot here_
-
-### Datapath Design
-_Add screenshot here_
-
-### Simulation Result
-_Add screenshot here_
-
----
 
 ## 🎯 Learning Outcomes
 
